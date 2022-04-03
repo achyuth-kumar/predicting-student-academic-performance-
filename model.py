@@ -1,9 +1,4 @@
-"""
 
-The goal of this experiment is to develop a model that will predict (to a certain level of acceptable accuracy) whether a student will pass or fail a mathematics course over a year (two semesters).
-The features will consist of all given features within the dataset excluding the GX factors that represent semester grades. G3 will be the target feature.
-
-"""
 
 """ Import helper libraries """
 import numpy as np
